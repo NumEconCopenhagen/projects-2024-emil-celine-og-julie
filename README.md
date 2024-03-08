@@ -1,9 +1,9 @@
-# \[Group name\]
+# \[emil celine og julie\]
 
 **Group members:**
-- A
-- B
-- C
+- Emil Whitton Mckinstry gpd537
+- Celine Bacj Hjortlund gfh599
+- Julie Nøjgaard Fogtdal xlk612
 
 This repository contains  
 1. Inaugural project. 
