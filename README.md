@@ -2,7 +2,7 @@
 
 **Group members:**
 - Emil Whitton Mckinstry gpd537
-- Celine Bacj Hjortlund gfh599
+- Celine Bach Hjortlund gfh599
 - Julie Nøjgaard Fogtdal xlk612
 
 This repository contains  
