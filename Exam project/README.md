@@ -6,6 +6,4 @@ The **results** of the exam project can be seen from running [exam.ipynb](exam.i
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
 
-import matplotlib.pyplot as plt
-
 **Conclusion:** 
